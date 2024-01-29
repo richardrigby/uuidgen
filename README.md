@@ -13,13 +13,13 @@ go install github.com/richardrigby/uuidgen@latest
 Generate single UUID:
 
 ```shell
-uuid
+uuidgen
 ```
 
 Generate N number UUIDs:
 
 ```shell
-uuid N
+uuidgen N
 ```
 
 Where N is an integer.
